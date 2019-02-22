@@ -1,2 +1,6 @@
 Cai nay moi dung ne, cai commit truoc chua chuan!
+
 B edit!
+=======
+A edit!
+
